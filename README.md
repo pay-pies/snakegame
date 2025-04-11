@@ -1,1 +1,1 @@
-# snakegame
+# My Snake Game
