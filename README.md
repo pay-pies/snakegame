@@ -10,4 +10,4 @@ Sorry this is not mobile friendly.
 Although this tutorial was not the clearest and the code was not fully working so I had to edit it a bit. I also edited it to have more than one food block and changed the colours.
 
 ## <ins>Note:<ins>
-Sorry the playable screen size may not be ideal. I have set it to 480x480 pixels and forgot to change it.
+Sorry the playable screen size may not be ideal. I have set it to 480x480 pixels.
